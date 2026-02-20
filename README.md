@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Satya Singh
 - 👀 I’m interested in 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning system design and DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via LinkedIn or GitHub Issues  
 - 😄 Pronouns: He/Him  
